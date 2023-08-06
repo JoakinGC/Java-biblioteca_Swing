@@ -1,5 +1,5 @@
 # Libreria_Java_Swing_MySQL
-Libreria Java Swing (incompleto).
+Libreria Java Swing (En desarrollo).
 [![uml-proyecto-drawio.png](https://i.postimg.cc/SQP8hdHb/uml-proyecto-drawio.png)](https://postimg.cc/2343dQz0)
 [![modelo-Netidad-Relacion-drawio.png](https://i.postimg.cc/ZnXyxY65/modelo-Netidad-Relacion-drawio.png)](https://postimg.cc/zHSBJrds)
 
